@@ -1,0 +1,4 @@
+flights\Flight.class
+flights\Database.class
+flights\FlightList.class
+flights\FlightResource.class
